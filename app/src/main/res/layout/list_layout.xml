@@ -39,7 +39,8 @@
     <ImageView
         android:id="@+id/bigcircle"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="405dp"
+        android:layout_marginStart="5dp"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
